@@ -428,7 +428,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 400, y: 400}
+  m_SizeDelta: {x: 800, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1095627912
 MonoBehaviour:
@@ -443,7 +443,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5188679, g: 0.5188679, b: 0.5188679, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -477,7 +477,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 827f8d309f2753942913da394f401223, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GraphBackground: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
+  GraphBackground: {r: 0.7913849, g: 0.9136698, b: 0.9811321, a: 1}
   LineColor: {r: 1, g: 0, b: 0.12588596, a: 1}
   m_rawImage: {fileID: 1095627912}
   m_slider: {fileID: 1033945136}
